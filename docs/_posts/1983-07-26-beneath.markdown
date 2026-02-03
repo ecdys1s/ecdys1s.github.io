@@ -1,6 +1,7 @@
 layout: post
 title: "beneath"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 1983-07-26 22:38:55 -0600
+categories: none
 
 PUBLISH.ENTRY #38904
 SETTING:BENEATH
