@@ -1,1 +1,1 @@
-jekyll new --skip-bundle
+/posts
