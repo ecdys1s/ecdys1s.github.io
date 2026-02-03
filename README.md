@@ -1,1 +1,2 @@
-# ecdys1s.github.io
+**plugins:
+  - jekyll-default-layout**
