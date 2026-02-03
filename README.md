@@ -1,2 +1,1 @@
-**plugins:
-  - jekyll-default-layout**
+jekyll new --skip-bundle
