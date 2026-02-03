@@ -1,7 +1,9 @@
+---
 layout: post
 title: "beneath"
 date: 1983-07-26 22:38:55 -0600
 categories: none
+---
 
 PUBLISH.ENTRY #38904
 SETTING:BENEATH
